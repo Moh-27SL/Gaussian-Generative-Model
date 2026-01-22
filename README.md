@@ -1,4 +1,4 @@
-Assignment 3 – Gaussian Generative Model (From Scratch)
+# Gaussian Generative Model (From Scratch)
 
 This repository contains the implementation and evaluation of a Gaussian Generative Model
 for classification, developed from scratch as part of Assignment 3.
